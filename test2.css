@@ -1,0 +1,50 @@
+#back1{
+    background-color:#fb4e71;
+     height: 200px; 
+     color: white;
+     width: 700px;
+     
+}
+#kl{
+    font-size: 40px;
+}
+#img1{
+    padding-left:500px;
+    padding-right: 100px;
+    padding-top: 30px;
+    height: 100px;
+    width: 100px;
+    margin-top: 10px;
+} 
+#IPL1{
+    background-color: #e6f6ff; 
+    width:700px;
+    height: 600px;
+}
+#IPL2{
+    background-color: white;
+    height: 200px;
+    width:600px ;
+    padding-buttom:500px;
+}
+#img2{
+    height:200px ;
+    margin-right:5px;
+}
+#image1{
+    height: 150px;
+    width: 150px;
+}
+#image2{
+    height: 150px;
+    width: 150px;
+}
+#image3{
+    height: 150px;
+    width: 150px;
+}
+#button{
+    color: #ffffff;
+    background-color: blue;
+}
+
